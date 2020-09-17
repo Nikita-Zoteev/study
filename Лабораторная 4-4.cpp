@@ -9,7 +9,7 @@ int main()
 	cin >> a;
 	cout << "Введите второе число: ";
 	cin >> b;
-	cout << "Сумма квадрато = " << pow(a, 2) + pow(b, 2) << endl;
+	cout << "Сумма квадратов = " << pow(a, 2) + pow(b, 2) << endl;
 	cout << "Разность квадратов = " << pow(a, 2) - pow(b, 2)<< endl;
 	cout << "Произведение квадратов = " << pow(a, 2) * pow(b, 2) << endl;
 	cout << "Частное квадратов = " << pow(a, 2) / pow(b, 2) << endl;
